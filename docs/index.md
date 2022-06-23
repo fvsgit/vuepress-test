@@ -3,7 +3,7 @@ home: true
 tagline: Tes this out
 actions:
   - text: Get Started
-    link: /guide/getting-started.html
+    link: /content/overview
     type: primary
   - text: Introduction
     link: /guide/
