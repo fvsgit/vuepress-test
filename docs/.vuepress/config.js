@@ -1,3 +1,5 @@
+const { defaultTheme } = require('@vuepress/theme-default')
+
 module.exports = {
     lang: 'en-US',
     title: 'Hello, VuePress!',
